@@ -1,32 +1,40 @@
-# project_diginest
-# 🛍️ Diginest - Full-Stack Marketplace (Next.js 14 + Payload CMS)
+# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
 
-**Diginest** is a fully functional, beautifully designed marketplace platform built from scratch using modern web technologies like **Next.js 14**, **TypeScript**, **Payload CMS**, and **shadcn-ui**. This project is ideal for developers looking to build eCommerce solutions with full-stack capabilities and high-end UI/UX.
+Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-## 🚀 Features
+![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
 
-- 💻 Fully responsive landing page & product pages
-- 🎨 Custom illustrations and artwork included
-- 💳 Full-featured admin dashboard for managing users & products
-- 🛍️ Users can list and purchase products
-- 🛒 Persistent shopping cart (local storage)
-- 🔑 Secure authentication with Payload CMS
-- ✉️ Beautiful transactional emails for signup and purchases
-- ✅ Admin product verification to ensure quality
-- 🖥️ Self-hostable Next.js application
-- 🌟 Sleek modern UI with **shadcn-ui**
-- ⌨️ 100% written in **TypeScript**
-- 🎁 ...and much more!
+## Features
 
-## 🧰 Tech Stack
+- 🛠️ Complete marketplace built from scratch in Next.js 14
+- 💻 Beautiful landing page & product pages included
+- 🎨 Custom artwork included
+- 💳 Full admin dashboard
+- 🛍️ Users can purchase and sell their own products
+- 🛒 Locally persisted shopping cart
+- 🔑 Authentication using Payload
+- 🖥️ Learn how to self-host Next.js
+- 🌟 Clean, modern UI using shadcn-ui
+- ✉️ Beautiful emails for signing up and after purchase
+- ✅ Admins can verify products to ensure high quality
+- ⌨️ 100% written in TypeScript
+- 🎁 ...much more
 
-- **Frontend**: Next.js 14, TypeScript, Tailwind CSS, shadcn-ui
-- **Backend / CMS**: Payload CMS (Node.js)
-- **Auth**: Payload Auth
-- **Database**: MongoDB (via Payload)
-- **Email**: Payload Email (custom templates)
-- **Deployment**: Vercel / Docker / Custom Hosting
+## Getting started
 
----
+To get started with this project, run
+
+```bash
+  git clone https://github.com/joschan21/digitalhippo.git
+```
+
+and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 
+## Acknowledgements
+
+- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
