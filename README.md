@@ -1,8 +1,8 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# DigiNest - A Modern Fullstack E-Commerce Marketplace for Digital Products
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
+
 
 ## Features
 
@@ -20,21 +20,13 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
 
-## Getting started
+## 🧰 Tech Stack
 
-To get started with this project, run
+- **Frontend**: Next.js 14, TypeScript, Tailwind CSS, shadcn-ui
+- **Backend / CMS**: Payload CMS (Node.js)
+- **Auth**: Payload Auth
+- **Database**: MongoDB (via Payload)
+- **Email**: Payload Email (custom templates)
+- **Deployment**: Vercel / Docker / Custom Hosting
 
-```bash
-  git clone https://github.com/joschan21/digitalhippo.git
-```
-
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
-
-## Acknowledgements
-
-- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+---
